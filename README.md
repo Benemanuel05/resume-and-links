@@ -7,7 +7,7 @@ This repository holds my resume, certifications, and professional profiles.
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/emanuel05)
-- [Google Cybersecurity Certificate](Screenshot/Googlesybersecurity.pdf)
+- [Google Cybersecurity Certificate](Screenshot/Google_Cybersecurity.pdf)
 
 ---
 
